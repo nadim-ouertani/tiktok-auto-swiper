@@ -2,7 +2,7 @@
 
 A Chrome extension that automatically generates views on TikTok videos by simulating swipes between videos.
 
-![TikTok Auto Swiper](https://i.imgur.com/PLACEHOLDER.png)
+![TikTok Auto Swiper](./images/tiktok-auto-swiper-logo.svg)
 
 ## 📋 Overview
 
